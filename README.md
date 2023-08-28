@@ -1,3 +1,7 @@
+## Hi I'm Maksim
+
+----
+
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
 
@@ -96,14 +100,20 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 </div>
 
 </td></tr></table>
 
 <br/>
 
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+
 
 ## Connect with me
+
+----
+
 <div align="center">
 
 [![Telegram Badge](https://img.shields.io/badge/-KhitrovMaksim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Maksim_Khitrov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:khitrov.maks@gmail.com)
@@ -125,7 +135,10 @@
 </a>
 </div>
 
-## Highlight Projects
+
+## Public Projects
+
+----
 
 <a href="https://github.com/KhitrovMaksim/students">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khitrovmaksim&repo=students&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="students" />
@@ -136,9 +149,17 @@
 </a>
 
 <br/>
+<br/>
+
+
+<br/>
+
+----
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khitrovmaksim&layout=compact&theme=dark&hide_title=1&card_width=300" alt="Top languages used in my repos" />
+</div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=khitrovmaksim&&style=flat-square" align="center" />
 </div>
-
-<br/>
