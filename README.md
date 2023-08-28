@@ -1,6 +1,5 @@
 ## Hi I'm Maksim
 
-----
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
@@ -112,8 +111,6 @@
 
 ## Connect with me
 
-----
-
 <div align="center">
 
 [![Telegram Badge](https://img.shields.io/badge/-KhitrovMaksim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Maksim_Khitrov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:khitrov.maks@gmail.com)
@@ -138,8 +135,6 @@
 
 ## Public Projects
 
-----
-
 <a href="https://github.com/KhitrovMaksim/students">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khitrovmaksim&repo=students&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="students" />
 </a>
@@ -157,9 +152,12 @@
 ----
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khitrovmaksim&layout=compact&theme=dark&hide_title=1&card_width=300" alt="Top languages used in my repos" />
+
+
+![](https://raw.githubusercontent.com/KhitrovMaksim/github-stats-transparent/output/generated/languages.svg)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=khitrovmaksim&style=flat-square" align="center" />
 </div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=khitrovmaksim&&style=flat-square" align="center" />
-</div>
