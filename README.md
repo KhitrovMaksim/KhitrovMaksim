@@ -1,4 +1,3 @@
-
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
 
@@ -106,6 +105,9 @@
 
 ## Connect with me
 <div align="center">
+
+[![Telegram Badge](https://img.shields.io/badge/-KhitrovMaksim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Maksim_Khitrov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:khitrov.maks@gmail.com)
+
 <a href="https://twitter.com/https://twitter.com/KhitrovMaks" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -123,10 +125,17 @@
 </a>
 </div>
 
+## Highlight Projects
+
+<a href="https://github.com/KhitrovMaksim/students">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khitrovmaksim&repo=students&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="students" />
+</a>
+
+<a href="https://github.com/KhitrovMaksim/user-accounts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khitrovmaksim&repo=user-accounts&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="user-accounts" />
+</a>
 
 <br/>
-
-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=khitrovmaksim&&style=flat-square" align="center" />
