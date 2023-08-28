@@ -1,5 +1,10 @@
 ## Hi I'm Maksim
 
+Full Stack Software Developer:
+- Frontend: React / Next.js / TypeScript
+- Backend: Node.js / NestJS / TypeScript
+- DevOps: AWS / Docker / Ansible / Jenkins / GitHub Actions / GitLab CI/CD
+- Databases: PostgreSQL, MySQL, MongoDB, Redis
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
@@ -106,9 +111,6 @@
 
 <br/>
 
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
-
-
 ## Connect with me
 
 <div align="center">
@@ -152,12 +154,6 @@
 ----
 
 <div align="center">
-
-
-![](https://raw.githubusercontent.com/KhitrovMaksim/github-stats-transparent/output/generated/languages.svg)
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=khitrovmaksim&style=flat-square" align="center" />
 </div>
 
