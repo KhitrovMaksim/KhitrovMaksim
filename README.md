@@ -115,23 +115,14 @@ Full Stack Software Developer:
 
 <div align="center">
 
-[![Telegram Badge](https://img.shields.io/badge/-KhitrovMaksim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Maksim_Khitrov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:khitrov.maks@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Maksim_Khitrov)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:khitrov.maks@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/KhitrovMaks)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-khitrov/)
+[![StackOverFlow Badge](https://img.shields.io/badge/-stackoverflow-F28032?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13474316/maksim-khitrov)
+[![GitLab Badge](https://img.shields.io/badge/-GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/khitrov.maks)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-24292e?style=flat&logo=github&logoColor=white)](https://gitlab.com/khitrov.maks)
 
-<a href="https://twitter.com/https://twitter.com/KhitrovMaks" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maksim-khitrov/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/https://gitlab.com/khitrov.maks" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13474316/maksim-khitrov" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/KhitrovMaksim" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 </div>
 
 
