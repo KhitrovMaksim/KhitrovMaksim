@@ -1,10 +1,6 @@
 ## Hi I'm Maksim
 
-Full Stack Software Developer:
-- Frontend: React / Next.js / TypeScript
-- Backend: Node.js / NestJS / TypeScript
-- DevOps: AWS / Docker / Ansible / Jenkins / GitHub Actions / GitLab CI/CD
-- Databases: PostgreSQL, MySQL, MongoDB, Redis
+Backend Developer: Node.js / NestJS / TypeScript / JavaScript
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
@@ -120,6 +116,7 @@ Full Stack Software Developer:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/KhitrovMaks)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksim-khitrov/)
 [![StackOverFlow Badge](https://img.shields.io/badge/-stackoverflow-F28032?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13474316/maksim-khitrov)
+[![StackOverFlow Badge](https://img.shields.io/badge/-leetcode-F28032?style=flat&logo=leetcode)](https://leetcode.com/u/Maksim_Khitrov/)
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/khitrov.maks)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-24292e?style=flat&logo=github&logoColor=white)](https://gitlab.com/khitrov.maks)
 
