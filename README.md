@@ -14,7 +14,7 @@ Backend Developer (Node.js, NestJS, TypeScript, JavaScript).
   * DevOps - Linux, Docker, GitLab, Ansible, AWS, RabbitMQ, PostgreSQL, MySQL, Grafana, Prometheus
   * Docs - Jira, Confluence, OpenAPI
 
-## Connect with me
+### Connect with me
 
 <div align="center">
 
